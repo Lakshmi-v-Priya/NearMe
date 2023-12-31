@@ -47,13 +47,5 @@ Execute the programs and publish them.
 ![8](https://github.com/Lakshmi-v-Priya/NearMe/assets/151720706/9af2a728-5ab0-41f7-9df4-dfaa26c15568)
 
 
-### Result :
-           The program is completed successfully
-
-
-
-
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
